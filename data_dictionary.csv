@@ -1,0 +1,17 @@
+Column Name,Data Type,Description
+transaction_id,int64,Unique transaction identifier
+date,datetime64[ns],Transaction date
+customer_id,object,Unique customer identifier
+gender,object,Customer gender
+age,int64,Customer age
+product_category,object,Purchased product category
+quantity,int64,Purchased quantity
+price_per_unit,int64,Unit price of product
+total_amount,int64,Final total amount
+calculated_total,int64,Calculated total amount based on quantity and price per unit
+year,int32,Transaction year
+month,int32,Transaction month number
+month_name,object,Transaction month name
+day_name,object,Transaction day name
+age_group,category,Customer age group
+spending_level,category,Customer spending level
