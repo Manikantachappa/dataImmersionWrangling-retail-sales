@@ -1,4 +1,3 @@
-<img width="912" height="828" alt="image" src="https://github.com/user-attachments/assets/4ae5dd9f-a85b-4515-92b1-91ae8b2eb7a9" /># dataImmersionWrangling-retail-sales
 Data cleaning and wrangling of a retail sales dataset using Python (Pandas)
 # Data Immersion & Wrangling - Retail Sales
 
